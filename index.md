@@ -32,10 +32,12 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 
 * 操作系统
   Windows10 TH1 1507或更高版本
+  
   Windows Server 2016或更高版本
 
 * 处理器
   X64架构
+  
   1.4GHz或更快
 
 * 内存
