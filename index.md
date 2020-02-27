@@ -31,18 +31,20 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 如果你使用的是Windows操作系统请检查你的计算机符合以下要求：
 
 * 操作系统
+
   Windows10 TH1 1507或更高版本
-  
   Windows Server 2016或更高版本
 
 * 处理器
-  X64架构
-  
+
+  X64架构  
   1.4GHz或更快
 
 * 内存
+
   1GB以上
 
 * 硬盘空间
+
   6GB以上
   
