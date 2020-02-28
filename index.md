@@ -105,9 +105,77 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 ![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/1.4.2.png "图片1.4.2")(图片1.4.2)
 
 1.5 向下翻页，找到并点击Download 2019 Developer edition now 按钮  
-![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/1.4.1.png "图片1.5.1")(图片1.5.1)
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/1.5.1.png "图片1.5.1")(图片1.5.1)
 
+1.6 在What do you to do with SQL2019-SSEI-Dev.exe(5.6MB)?对话框中点击Run按钮，等待下载完成  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/1.6.1.png "图片1.6.1")(图片1.6.1)
 
+1.7 在UAC对话框中点击Yes按钮（你的计算机可能没有开启UAC功能如果没有弹出UAC对话框则跳过当前步）（你在计算机上安装的安全软件可能会阻止你打开SQL Server 2019，请暂时关闭你计算机上的安全软件或使安全软件允许打开SQL Server 2019）  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/1.7.1.png "图片1.7.1")(图片1.7.1)
+
+2 安装SQL Server Installation Center
+
+2.1 等待软件启动，在SQL Server Installer中点击Custom  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/2.1.1.png "图片2.1.1")(图片2.1.1)  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/2.1.2.png "图片2.1.2")(图片2.1.2)
+
+2.2 在MEDIA LOCATION栏设置SQL Server Installer下载SQL Server media的目标位置(你也可以使用默认目标位置)，点击Install按钮  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/2.2.1.png "图片2.2.1")(图片2.2.1)
+
+2.3 等待下载并安装SQL Server Installation Center  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/2.3.1.png "图片2.3.1")(图片2.3.1)
+
+3 安装Microsoft SQL Server
+
+3.1 在SQL Server Installation Center中点击Installation  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/3.1.1.png "图片3.1.1")(图片3.1.1)
+
+3.2 在SQL Server Installation Center中点击New SQL Server stand-alone installation or add features to an existing installation  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/3.2.1.png "图片3.2.1")(图片3.2.1)
+
+3.3 等待SQL Server 2019 Setup启动，在SQL Server 2019 Setup中点击Next >按钮  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/3.3.1.png "图片3.3.1")(图片3.3.1)  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/3.3.2.png "图片3.3.2")(图片3.3.2)
+
+3.4 在SQL Server 2019 Setup中点击I accept the license terms and Privacy Statement复选框，点击Next按钮  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/3.4.1.png "图片3.4.1")(图片3.4.1)  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/3.4.2.png "图片3.4.2")(图片3.4.2)
+
+3.5 在SQL Server 2019 Setup中点击Use Microsoft Update to check for updates(recommended)复选框，点击Next >按钮  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/3.5.1.png "图片3.5.1")(图片3.5.1)  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/3.5.2.png "图片3.5.2")(图片3.5.2)
+
+3.6 在SQL Server 2019 Setup中点击Next >按钮  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/3.6.1.png "图片3.6.1")(图片3.6.1)
+
+3.7 在SQL Server 2019 Setup中的Features:框中点击Database Engine Services，SQL Server Replication，Full-Text and Extractions for Search，SQL Client Connectivity SDK的复选框，点击SQL Server 2019 Setup中的Next >按钮  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/3.7.1.png "图片3.7.1")(图片3.7.1)  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/3.7.2.png "图片3.7.2")(图片3.7.2)  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/3.7.3.png "图片3.7.3")(图片3.7.3)
+
+3.8 在SQL Server 2019 Setup中点击Next >按钮  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/3.8.1.png "图片3.8.1")(图片3.8.1)
+
+3.9 在SQL Server 2019 Setup中点击Next >按钮  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/3.9.1.png "图片3.9.1")(图片3.9.1)
+
+3.10 在SQL Server 2019 Setup中点击Add Current User按钮，点击Next >按钮  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/3.10.1.png "图片3.10.1")(图片3.10.1)  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/3.10.2.png "图片3.10.2")(图片3.10.2)
+
+3.11 在SQL Server 2019 Setup中的Configuration file path:栏设置配置文件路径（你也可以使用默认路径），点击Install按钮  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/3.11.1.png "图片3.11.1")(图片3.11.1)
+
+3.12 等待安装  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/3.12.1.png "图片3.12.1")(图片3.12.1)
+
+3.13 在SQL Server 2019 Setup中点击Close按钮  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/3.13.1.png "图片3.13.1")(图片3.13.1)
+
+4 安装SQL Server Management Tools
+
+4.1 切换到SQL Server Installation Center窗口，在SQL Server Installation Center点击Install SQL Server Management Tools  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.1.1.png "图片4.1.1")(图片4.1.1)
 
 ## 联系方式
 
