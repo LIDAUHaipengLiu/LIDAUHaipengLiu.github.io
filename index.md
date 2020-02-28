@@ -90,9 +90,19 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 
 1 下载SQL Server 2019 Installer
 
-1.1 进入Windows桌面
+1.1 进入Windows桌面  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/1.1.1.png "图片1.1.1")(图片1.1.1)
 
-![img](https://LIDAUHaipengLiu.github.io/image/1.1.1.png)
+1.2 按下Windows键，打开Start Menu  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/1.2.1.png "图片1.2.1")(图片1.2.1)
+
+1.3 在Type here to search栏键入{edge}，点击Microsoft Edge打开Microsoft Edge浏览器  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/1.3.1.png "图片1.3.1")(图片1.3.1)  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/1.3.2.png "图片1.3.2")(图片1.3.2)
+
+1.4 在Edge的地址栏键入{![link](https://www.microsoft.com/en-us/sql-server/sql-server-downloads "https://www.microsoft.com/en-us/sql-server/sql-server-downloads")}，按下enter键  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/1.4.1.png "图片1.4.1")(图片1.4.1)  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/1.4.2.png "图片1.4.2")(图片1.4.2)
 
 ## 联系方式
 
