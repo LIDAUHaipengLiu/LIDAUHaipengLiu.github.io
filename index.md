@@ -24,51 +24,50 @@ Express 版本是入门级的免费数据库，是学习和构建桌面及小型
 
 ### 安装前准备
 
-Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系统。如果你使用的是基于Unix的操作系统例如：macOS或基于Unix-like（除Linux外）的操作系统且无法迁移至Windows或Linux系统请联系我。
+Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系统。如果你使用的是基于Unix的操作系统例如：macOS或基于Unix-like（除Linux外）的操作系统且无法迁移至Windows或Linux系统请联系我（联系方式在页面的最后）。
 
 #### Windows用户
 
 如果你使用的是Windows操作系统请检查你的计算机符合以下要求：
 
-* 操作系统
-
+* 操作系统  
   Windows10 TH1 1507或更高版本  
   Windows Server 2016或更高版本
 
-* 处理器
-
+* 处理器  
   X64架构  
   1.4GHz或更快
 
-* 内存
-
+* 内存  
   1GB或以上
 
-* 硬盘空间
-
+* 硬盘空间  
   6GB或以上
   
-* 软件
-
+* 软件  
   Edge浏览器
 
 #### Linux用户
 
-* 处理器
-
+* 处理器  
   x64架构  
   2GHz或更快  
   2个核心或以上
 
-* 内存
-
+* 内存  
   2GB或以上
 
-* 硬盘空间
-
+* 硬盘空间  
   6GB或以上
   
-* 文件系统
-
+* 文件系统  
   EXT4或XFS
+  
+### 在Windows上安装Microsoft SQL Server 
 
+在Windows操作系统上
+
+## 联系方式
+GitHub：LIDAUHaipengLiu
+Email：ai.haipengliu@gmail.com
+WeChat：wxid_x97qmntom5no22
