@@ -88,6 +88,9 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 
 * 4核心处理器，4GB内存和40GB外存
 
+1 下载SQL Server 2019 Installer
+
+1.1 进入Windows桌面
 
 ## 联系方式
 
