@@ -177,6 +177,51 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 4.1 切换到SQL Server Installation Center窗口，在SQL Server Installation Center点击Install SQL Server Management Tools  
 ![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.1.1.png "图片4.1.1")(图片4.1.1)
 
+4.2 将浏览器打开的网页([https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?redirectedfrom=MSDN&view=sql-server-ver15](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?redirectedfrom=MSDN&view=sql-server-ver15))向下翻页，找到并点击Download SQL Server Management Studio (SSMS)  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.2.1.png "图片4.2.1")(图片4.2.1)
+
+4.3 在What do you to do with SSMS-Setup-ENU.exe (539 MB)?对话框中点击Save按钮，等待下载完成，在SSMS-Setup-ENU.exe finish downloading.对话框中点击Run  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.3.1.png "图片4.3.1")(图片4.3.1)  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.3.2.png "图片4.3.2")(图片4.3.2)
+
+4.4 在UAC对话框中点击Yes按钮（你的计算机可能没有开启UAC功能如果没有弹出UAC对话框则跳过当前步）（你在计算机上安装的安全软件可能会阻止你打开SSMS-Setup-ENU，请暂时关闭你计算机上的安全软件或使安全软件允许打开SSMS-Setup-ENU）  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.4.1.png "图片4.4.1")(图片4.4.1)
+
+4.5 保存你正在进行的工作，在Microsoft SQL Server Management Studio中点击Restart  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.5.1.png "图片4.5.1")(图片4.5.1)
+
+4.6 进入Windows桌面  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.6.1.png "图片4.6.1")(图片4.6.1)
+
+4.7 按下Windows键，打开Start Menu  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.7.1.png "图片4.7.1")(图片4.7.1)
+
+4.8 在Type here to search栏键入{edge}，点击Microsoft Edge打开Microsoft Edge浏览器  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.8.1.png "图片4.8.1")(图片4.8.1)  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.8.2.png "图片4.8.2")(图片4.8.2)
+
+4.9 在Edge中点击右上角的…按钮  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.9.1.png "图片4.9.1")(图片4.9.1)
+
+4.10 在…Menu中点击Downloads  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.10.1.png "图片4.10.1")(图片4.10.1)  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.10.2.png "图片4.10.2")(图片4.10.2)
+
+4.11 在Downloads Menu中点击SSMS-Setup-ENU.exe项  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.11.1.png "图片4.11.1")(图片4.11.1)
+
+4.12 在UAC对话框中点击Yes按钮（你的计算机可能没有开启UAC功能如果没有弹出UAC对话框则跳过当前步）（你在计算机上安装的安全软件可能会阻止你打开SSMS-Setup-ENU，请暂时关闭你计算机上的安全软件或使安全软件允许打开SSMS-Setup-ENU）  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.12.1.png "图片4.12.1")(图片4.12.1)
+
+4.13 在Microsoft SQL Server Management Studio中的Location:栏设置安装路径（你也可以使用默认路径），点击Install按钮  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.13.1.png "图片4.13.1")(图片4.13.1)
+
+4.14 等待安装  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.14.1.png "图片4.14.1")(图片4.14.1)
+
+4.15.1 保存你正在进行的工作，在Microsoft SQL Server Management Studio中点击Restart  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.15.1.png "图片4.15.1")(图片4.15.1)
+
 ## 联系方式
 
 GitHub：LIDAUHaipengLiu
