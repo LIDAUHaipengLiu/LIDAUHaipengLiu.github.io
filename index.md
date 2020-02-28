@@ -42,7 +42,12 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 * 软件  
   Edge浏览器
 
+* 网络
+  互联网连接  
+
 #### Linux用户
+
+如果你使用的是基于Linux操作系统请检查你的计算机符合以下要求：
 
 * 处理器  
   x64架构  
@@ -57,12 +62,37 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
   
 * 文件系统  
   EXT4或XFS
-  
+
+* 网络
+  互联网连接
+
 ### 在Windows上安装Microsoft SQL Server 
 
-在Windows操作系统上
+下面的内容将描述一般的在Windows操作系统上安装Microsoft SQL Server的过程，使用Docker容器拉取和运行Microsoft SQL Server的过程，使用安装介质安装Microsoft SQL Server的过程和安装Microsoft SQL Server所有特性的过程。
+
+如果你完全不知道如何安装Microsoft SQL Server，不会使用Docker网络连接速度较快请参考一般的在Windows操作系统上安装Microsoft SQL Server的过程。
+
+如果你知道如何使用Docker,请Docker容器拉取和运行Microsoft SQL Server的过程。
+
+如果你的网络连接速度较慢或不稳定，请参考使用安装介质安装Microsoft SQL Server的过程。
+
+如果你需要安装Microsoft SQL Server的所有特性，请参考安装Microsoft SQL Server所有特性的过程.
+
+#### 一般的在Windows操作系统上安装Microsoft SQL Server的过程
+
+演示环境：
+
+* 使用VMware Workstation 15 Pro搭建的环境
+
+* 操作系统Windows10 Pro 1909
+
+* 4核心处理器，4GB内存和40GB外存
+
 
 ## 联系方式
+
 GitHub：LIDAUHaipengLiu
+
 Email：ai.haipengliu@gmail.com
+
 WeChat：wxid_x97qmntom5no22
