@@ -100,9 +100,14 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 ![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/1.3.1.png "图片1.3.1")(图片1.3.1)  
 ![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/1.3.2.png "图片1.3.2")(图片1.3.2)
 
-1.4 在Edge的地址栏键入{![link](https://www.microsoft.com/en-us/sql-server/sql-server-downloads "https://www.microsoft.com/en-us/sql-server/sql-server-downloads")}，按下enter键  
+1.4 在Edge的地址栏键入{[https://www.microsoft.com/en-us/sql-server/sql-server-downloads](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)}，按下enter键  
 ![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/1.4.1.png "图片1.4.1")(图片1.4.1)  
 ![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/1.4.2.png "图片1.4.2")(图片1.4.2)
+
+1.5 向下翻页，找到并点击Download 2019 Developer edition now 按钮  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/1.4.1.png "图片1.5.1")(图片1.5.1)
+
+
 
 ## 联系方式
 
