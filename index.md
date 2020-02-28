@@ -92,7 +92,7 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 
 1.1 进入Windows桌面
 
-![img1.1.1](LIDAUHaipengLiu.github.io/image/1.1.1.png)
+![img](https://LIDAUHaipengLiu.github.io/image/1.1.1.png)
 
 ## 联系方式
 
