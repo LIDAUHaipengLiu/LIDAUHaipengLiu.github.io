@@ -1,4 +1,8 @@
 ## 在Windows和Linux上安装Microsoft SQL Server
+
+这个页面描述了Microsoft SQL Server在Windows和基于Linux的操作系统上的几种安装方式，常见问题的解决方案和部分资源的下载链接。
+如果你按照页面中的的过程无法安装Microsoft SQL Server或安装Microsoft SQL Server失败且你的问题不在常见问题中或使用页面中的解决方案无法解决你的问题。请联系我（联系方式在页面的最后）。
+
 ### Microsoft SQL Server是什么
 Microsoft SQL Server是一个关系型数据库管理系统，Microsoft SQL Server 2019共有5个版本：Enterprise、Standard、Web、Developer、Express。各个版本的定义如下：
 
@@ -42,7 +46,7 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 * 软件  
   Edge浏览器
 
-* 网络
+* 网络  
   互联网连接  
 
 #### Linux用户
@@ -63,14 +67,14 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 * 文件系统  
   EXT4或XFS
 
-* 网络
+* 网络  
   互联网连接
 
 ### 在Windows上安装Microsoft SQL Server 
 
 下面的内容将描述一般的在Windows操作系统上安装Microsoft SQL Server的过程，使用Docker容器拉取和运行Microsoft SQL Server的过程，使用安装介质安装Microsoft SQL Server的过程和安装Microsoft SQL Server所有特性的过程。
 
-如果你完全不知道如何安装Microsoft SQL Server，不会使用Docker网络连接速度较快请参考一般的在Windows操作系统上安装Microsoft SQL Server的过程。
+如果你完全不知道如何安装Microsoft SQL Server，不会使用Docker和网络连接速度较快，请参考一般的在Windows操作系统上安装Microsoft SQL Server的过程。
 
 如果你知道如何使用Docker,请Docker容器拉取和运行Microsoft SQL Server的过程。
 
