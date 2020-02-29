@@ -228,6 +228,13 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 4.15.1 保存你正在进行的工作，在Microsoft SQL Server Management Studio中点击Restart  
 ![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.15.1.png "图片4.15.1")(图片4.15.1)
 
+## 常见问题
+
+* 我希望安装中文版SSMS，我该怎么做？  
+  如果你已经安装了英文版SSMS，请在控制面版 -> 程序和功能中卸载SSMS，访问[https://docs.microsoft.com/zh-cn/sql/ssms/download-sql-server-management-studio-ssms?redirectedfrom=MSDN&view=sql-server-ver15](https://docs.microsoft.com/zh-cn/sql/ssms/download-sql-server-management-studio-ssms?redirectedfrom=MSDN&view=sql-server-ver15)安装中文版SSMS。
+
+* 我希望安装Microsoft SQL Server的全部特性，我无法找到polybase功能所依赖的指定版本的JRE，且polybase无法兼容高版本JRE，我该怎么做？
+
 ## 联系方式
 
 GitHub：LIDAUHaipengLiu
