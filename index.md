@@ -25,6 +25,8 @@ Microsoft SQL Server是一个关系型数据库管理系统，Microsoft SQL Serv
 
 Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系统。如果你使用的是基于Unix的操作系统例如：macOS或基于Unix-like（除Linux外）的操作系统且无法迁移至Windows或Linux系统请联系我（联系方式在页面的最后）。
 
+如果你希望安装中文版的Microsoft SQL Server 2019，请将帮助中的网址中的en-us改为zh-cn。
+
 #### Windows用户
 
 如果你使用的是Windows操作系统请检查你的计算机符合以下要求：
