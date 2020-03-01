@@ -83,7 +83,7 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 
 如果你的网络连接速度较慢或不稳定，请参考使用安装介质安装Microsoft SQL Server的过程。
 
-如果你需要安装Microsoft SQL Server的所有特性，请参考安装Microsoft SQL Server所有特性的过程.
+如果你需要安装Microsoft SQL Server的所有特性，请参考安装Microsoft SQL Server所有特性的过程。
 
 #### 一般的在Windows操作系统上安装Microsoft SQL Server的过程
 
@@ -258,6 +258,51 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 
 2.1 在Windows PowerShell中键入docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=studentofSQL' -p 1433:1433 -d mcr.microsoft.com/mssql/server:2019-latest  
 ![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/ImageWinDocker/2.1.1.png "图片2.1.1")(图片2.1.1)
+
+#### 使用安装介质安装Microsoft SQL Server的过程
+
+在使用安装介质安装Microsoft SQL Server之前，下载Microsoft SQL Server安装介质(Microsoft SQL Server media)。
+
+* Microsoft SQL Server media  
+点击[这个链接](https://github.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/releases/download/MicrosoftSQLServerMedia/SQLServer2019-x64-ENU-Dev.iso)下载Microsoft SQL Server media。
+
+* 中文版的Microsoft SQL Server media
+点击[这个链接](https://github.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/releases/download/MicrosoftSQLServerMediaChinese/SQLServer2019-x64-CHS-Dev.iso)下载中文版的Microsoft SQL Server media。
+
+你还可以访问[https://github.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/releases](https://github.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/releases)自行查找和选择指定的Microsoft SQL Server media。
+
+演示环境如下:
+
+* 使用VMware Workstation 15 Pro搭建的环境
+
+* 操作系统Windows10 Pro 1909
+
+* 4核心处理器，4GB内存和40GB外存
+
+1 配置SQL Server Installation Center
+
+1.1 进入Windows桌面  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/ImageWinMedia/1.1.1.png "图片1.1.1")(图片1.1.1)
+
+1.2 同时按下Windows键和E键打开File Explorer  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/ImageWinMedia/1.2.1.png "图片1.2.1")(图片1.2.1)
+
+1.3 在File Explorer中点击Downloads按钮  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/ImageWinMedia/1.3.1.png "图片1.3.1")(图片1.3.1)
+
+1.4 双击SQLServer2019-x64-ENU-Dev  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/ImageWinMedia/1.4.1.png "图片1.4.1")(图片1.4.1)
+
+1.5 双击setup，等待  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/ImageWinMedia/1.5.1.png "图片1.5.1")(图片1.5.1)
+
+1.6 在UAC对话框中点击Yes按钮（你的计算机可能没有开启UAC功能如果没有弹出UAC对话框则跳过当前步）（你在计算机上安装的安全软件可能会阻止你打开SQL Server 2019，请暂时关闭你计算机上的安全软件或使安全软件允许打开SQL Server 2019）  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/ImageWinMedia/1.6.1.png "图片1.6.1")(图片1.6.1)
+
+1.7 等待启动  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/ImageWinMedia/1.7.1.png "图片1.7.1")(图片1.7.1)
+
+一般的Windows操作系统下安装Microsoft SQL Server的过程3.1到4.15
 
 ## 常见问题
 
