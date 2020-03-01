@@ -47,6 +47,7 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
   
 * 软件  
   Edge浏览器
+  Docker(仅使用Docker拉和运行Microsoft SQL Server时)
 
 * 网络  
   互联网连接  
@@ -78,7 +79,7 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 
 如果你完全不知道如何安装Microsoft SQL Server，不会使用Docker和网络连接速度较快，请参考一般的在Windows操作系统上安装Microsoft SQL Server的过程。
 
-如果你知道如何使用Docker,请Docker容器拉取和运行Microsoft SQL Server的过程。
+如果你知道如何使用Docker,请参考使用Docker容器拉取和运行Microsoft SQL Server的过程。
 
 如果你的网络连接速度较慢或不稳定，请参考使用安装介质安装Microsoft SQL Server的过程。
 
@@ -227,6 +228,20 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 
 4.15.1 保存你正在进行的工作，在Microsoft SQL Server Management Studio中点击Restart  
 ![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/Image/4.15.1.png "图片4.15.1")(图片4.15.1)
+
+#### 使用Docker容器拉取和运行Microsoft SQL Server的过程
+
+演示环境如下:
+
+* 使用VMware Workstation 15 Pro搭建的环境
+
+* 操作系统Windows10 Pro 1909
+
+* 4核心处理器，4GB内存和40GB外存
+
+1 从DockerHub拉取Microsoft SQL Server
+
+1.1 按下Windows键，打开Start menu
 
 ## 常见问题
 
