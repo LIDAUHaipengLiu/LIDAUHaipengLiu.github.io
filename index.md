@@ -310,7 +310,7 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
   如果你已经安装了英文版SSMS，请在控制面版 -> 程序和功能中卸载SSMS，访问[https://docs.microsoft.com/zh-cn/sql/ssms/download-sql-server-management-studio-ssms?redirectedfrom=MSDN&view=sql-server-ver15](https://docs.microsoft.com/zh-cn/sql/ssms/download-sql-server-management-studio-ssms?redirectedfrom=MSDN&view=sql-server-ver15)安装中文版SSMS。  
   如果你还没有安装SSMS，请将过程中提供的网址中的en-us改为zh-cn。
 
-* 我希望安装Microsoft SQL Server的全部特性，我无法找到Polybase功能所依赖的指定版本的JRE，且Polybase无法兼容高版本JRE，我该怎么做？
+* 我希望安装Microsoft SQL Server的全部特性，我无法找到Polybase功能所依赖的指定版本的JRE，且Polybase无法兼容高版本JRE，我该怎么做？  
   访问[https://www.oracle.com/java/technologies/javase/javase7-archive-downloads.html](https://www.oracle.com/java/technologies/javase/javase7-archive-downloads.html)安装Polybase指定版本的JRE，重新安装Microsoft SQL Server。
 
 ## 关于本库
