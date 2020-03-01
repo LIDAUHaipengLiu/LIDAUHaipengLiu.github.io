@@ -266,7 +266,7 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 * Microsoft SQL Server media  
 点击[这个链接](https://github.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/releases/download/MicrosoftSQLServerMedia/SQLServer2019-x64-ENU-Dev.iso)下载Microsoft SQL Server media。
 
-* 中文版的Microsoft SQL Server media
+* 中文版的Microsoft SQL Server media  
 点击[这个链接](https://github.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/releases/download/MicrosoftSQLServerMediaChinese/SQLServer2019-x64-CHS-Dev.iso)下载中文版的Microsoft SQL Server media。
 
 你还可以访问[https://github.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/releases](https://github.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/releases)自行查找和选择指定的Microsoft SQL Server media。
