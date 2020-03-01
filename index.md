@@ -1,5 +1,3 @@
-License([https://github.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/blob/master/LICENSE](https://github.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/blob/master/LICENSE))
-
 ## 在Windows和Linux上安装Microsoft SQL Server
 
 这个页面描述了Microsoft SQL Server在Windows和基于Linux的操作系统上的几种安装方式，常见问题的解决方案和部分资源的下载链接。
@@ -269,6 +267,10 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 
 * 我希望安装Microsoft SQL Server的全部特性，我无法找到Polybase功能所依赖的指定版本的JRE，且Polybase无法兼容高版本JRE，我该怎么做？
   访问[https://www.oracle.com/java/technologies/javase/javase7-archive-downloads.html](https://www.oracle.com/java/technologies/javase/javase7-archive-downloads.html)安装Polybase指定版本的JRE，重新安装Microsoft SQL Server。
+
+## 关于本库
+
+License([https://github.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/blob/master/LICENSE](https://github.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/blob/master/LICENSE))
 
 ## 联系方式
 
