@@ -241,7 +241,23 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 
 1 从DockerHub拉取Microsoft SQL Server
 
-1.1 按下Windows键，打开Start menu
+1.1 按下Windows键，打开Start menu  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/ImageWinDocker/1.1.1.png "图片1.1.1")(图片1.1.1)
+
+1.2 在Type here to search栏键入{Powershell}，点击Windows Powershell打开Windows Powershell  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/ImageWinDocker/1.2.1.png "图片1.2.1")(图片1.2.1)  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/ImageWinDocker/1.2.2.png "图片1.2.2")(图片1.2.2)
+
+1.3 在Windows PowerShell中键入docker pull mcr.microsoft.com/mssql/server:2019-latest  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/ImageWinDocker/1.3.1.png "图片1.3.1")(图片1.3.1)
+
+1.4 等待拉取镜像  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/ImageWinDocker/1.4.1.png "图片1.4.1")(图片1.4.1)
+
+2 在Docker容器中运行Microsoft SQL Server
+
+2.1 在Windows PowerShell中键入docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=yourStrong(!)Password' -p 1433:1433 -d mcr.microsoft.com/mssql/server:2019-latest  
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/ImageWinDocker/2.1.1.png "图片2.1.1")(图片2.1.1)
 
 ## 常见问题
 
