@@ -46,7 +46,7 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
   6GB或以上
   
 * 软件  
-  Edge浏览器
+  Edge浏览器  
   Docker(仅使用Docker拉和运行Microsoft SQL Server时)
 
 * 网络  
