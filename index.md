@@ -313,7 +313,7 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 3.7 在SQL Server 2019 Setup中点击Select All按钮，点击SQL Server 2019 Setup中的Next >按钮  
 图片略
 
-一般的Windows操作系统下安装Microsoft SQL Server的过程3.8到4.15
+一般的Windows操作系统下安装Microsoft SQL Server的过程3.8到4.15。
 
 ## 常见问题
 
