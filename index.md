@@ -1,3 +1,5 @@
+License([https://github.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/blob/master/LICENSE](https://github.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/blob/master/LICENSE))
+
 ## 在Windows和Linux上安装Microsoft SQL Server
 
 这个页面描述了Microsoft SQL Server在Windows和基于Linux的操作系统上的几种安装方式，常见问题的解决方案和部分资源的下载链接。
