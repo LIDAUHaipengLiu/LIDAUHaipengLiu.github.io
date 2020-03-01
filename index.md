@@ -244,7 +244,7 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 1.1 按下Windows键，打开Start menu  
 ![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/ImageWinDocker/1.1.1.png "图片1.1.1")(图片1.1.1)
 
-1.2 在Type here to search栏键入{Powershell}，点击Windows Powershell打开Windows Powershell  
+1.2 在Type here to search栏键入{PowerShell}，点击Windows Powershell打开Windows Powershell  
 ![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/ImageWinDocker/1.2.1.png "图片1.2.1")(图片1.2.1)  
 ![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/ImageWinDocker/1.2.2.png "图片1.2.2")(图片1.2.2)
 
