@@ -256,7 +256,7 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 
 2 在Docker容器中运行Microsoft SQL Server
 
-2.1 在Windows PowerShell中键入docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=studentofsql' -p 1433:1433 -d mcr.microsoft.com/mssql/server:2019-latest  
+2.1 在Windows PowerShell中键入docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=studentofSQL' -p 1433:1433 -d mcr.microsoft.com/mssql/server:2019-latest  
 ![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/ImageWinDocker/2.1.1.png "图片2.1.1")(图片2.1.1)
 
 ## 常见问题
