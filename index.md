@@ -311,7 +311,7 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 一般的Windows操作系统下安装Microsoft SQL Server的过程1.1到3.6。
 
 3.7 在SQL Server 2019 Setup中点击Select All按钮，点击SQL Server 2019 Setup中的Next >按钮  
-图片略
+![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/ImageWinAll/3.7.1.png "图片3.7.1")(图片3.7.1)
 
 一般的Windows操作系统下安装Microsoft SQL Server的过程3.8到4.15。
 
