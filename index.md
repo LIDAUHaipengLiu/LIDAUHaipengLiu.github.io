@@ -79,7 +79,7 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 
 如果你完全不知道如何安装Microsoft SQL Server，不会使用Docker和网络连接速度较快，请参考一般的在Windows操作系统上安装Microsoft SQL Server的过程。
 
-如果你知道如何使用Docker,请参考使用Docker容器拉取和运行Microsoft SQL Server的过程。
+如果你知道如何使用Docker,请参考使用Docker容器拉取和运行Microsoft SQL Server的过程，不建议不会使用Docker的情况下参考本过程。
 
 如果你的网络连接速度较慢或不稳定，请参考使用安装介质安装Microsoft SQL Server的过程。
 
