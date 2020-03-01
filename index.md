@@ -47,7 +47,7 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
   
 * 软件  
   Edge浏览器  
-  Docker(仅使用Docker拉和运行Microsoft SQL Server时)
+  Docker(仅使用Docker拉取和运行Microsoft SQL Server时)
 
 * 网络  
   互联网连接  
@@ -303,6 +303,17 @@ Microsoft SQL Server 2019仅支持Windows操作系统和基于Linux的操作系�
 ![img](https://raw.githubusercontent.com/LIDAUHaipengLiu/LIDAUHaipengLiu.github.io/master/ImageWinMedia/1.7.1.png "图片1.7.1")(图片1.7.1)
 
 一般的Windows操作系统下安装Microsoft SQL Server的过程3.1到4.15
+
+#### 安装Microsoft SQL Server所有特性的过程
+
+访问[https://www.oracle.com/java/technologies/javase/javase7-archive-downloads.html](https://www.oracle.com/java/technologies/javase/javase7-archive-downloads.html)安装指定版本的JRE(事实上Microsoft SQL Server的特性Polybase仅在依赖JRE7时工作良好)。
+
+一般的Windows操作系统下安装Microsoft SQL Server的过程1.1到3.6。
+
+3.7 在SQL Server 2019 Setup中点击Select All按钮，点击SQL Server 2019 Setup中的Next >按钮  
+图片略
+
+一般的Windows操作系统下安装Microsoft SQL Server的过程3.8到4.15
 
 ## 常见问题
 
